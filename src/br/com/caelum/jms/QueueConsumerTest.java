@@ -13,7 +13,7 @@ import javax.jms.Session;
 import javax.jms.TextMessage;
 import javax.naming.InitialContext;
 
-public class ConsumidorTest {
+public class QueueConsumerTest {
 
 	public static void main(String[] args) {
 		
